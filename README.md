@@ -127,7 +127,6 @@ jupyter notebook
 
 ### ⭐ If you like this repository, give it a star!
 
-🚀 *Learning never stops.*
 
 </div>
 ```
